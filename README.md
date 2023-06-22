@@ -15,7 +15,7 @@
 
 <ul>
     <li>😇 I’m Junior at Indian Institute of Information Technology, Surat pursuing B.Tech in Electronics and Communication Engineering.</li>
-    <li>👨‍💻 I'm a <b>Backend</b> Developer and a <b>React Native</b> Developer currently exploring the field of Machine Learning.</li>
+    <li>👨‍💻 I'm a <b>React Native</b> Developer and a <b>Backend</b> Developer currently exploring the field of Machine Learning.</li>
 <!--     <li>🔭 Looking to collaborate on building Full Stack applications.</li> -->
     <li>📫 Reach me: <a href="mailto:antrikshgupta01@gmail.com">antrikshgupta01@gmail.com</a> &nbsp;&nbsp; <a href="https://www.linkedin.com/in/antriksh1305/" target="_blank"><b>Linked</b> <img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="Antriksh-Gupta-LinkedIn" height="20"></a></li>
 </ul>
