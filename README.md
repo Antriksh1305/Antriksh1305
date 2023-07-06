@@ -157,11 +157,11 @@
 </p>
 
 <hr>
-<img  src="https://github-readme-stats.vercel.app/api/top-langs?username=antriksh1305&show_icons=true&locale=en&layout=compact&theme=dark" alt="antriksh1305" />
+<img  src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=antriksh1305&show_icons=true&locale=en&layout=compact&theme=dark" alt="antriksh1305" />
 <br>
 
 <h2 align="left"> 🏆 Github Stats </h2>
 
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=antriksh1305&theme=dark" width="45%" align="left" alt="streak-stats">
-<img  src="https://github-readme-stats.vercel.app/api?username=antriksh1305&show_icons=true&theme=dark" width="45%" alt="stats">
+<img  src="https://github-readme-stats-sigma-five.vercel.app/api?username=antriksh1305&show_icons=true&theme=dark" width="45%" alt="stats">
 <br>
