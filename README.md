@@ -9,7 +9,7 @@
      height="50%"
      />
 </p>
-<h3 align="center" ><i>An A.I. Enthusiast, Backend Developer, a Creative App Developer</i></h3>
+<h3 align="center" ><i>An A.I. Enthusiast, Backend Developer & a Creative App Developer</i></h3>
 
 <h2 align="left"> 👨‍💻 About Me</h2>
 
