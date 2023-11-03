@@ -9,13 +9,13 @@
      height="50%"
      />
 </p>
-<h3 align="center" ><i>An A.I. Enthusiast, Backend Developer & a Creative App Developer</i></h3>
+<h3 align="center" ><i>An A.I. Enthusiast & a Creative App Developer</i></h3>
 
 <h2 align="left"> 👨‍💻 About Me</h2>
 
 <ul>
     <li>😇 I’m Junior at Indian Institute of Information Technology, Surat pursuing B.Tech in Electronics and Communication Engineering.</li>
-    <li>👨‍💻 I'm a <b>React Native</b> Developer and a <b>Backend</b> Developer currently exploring the field of Machine Learning.</li>
+    <li>👨‍💻 I'm a <b>React Native Frontend</b> Developer currently exploring the field of Machine Learning.</li>
 <!--     <li>🔭 Looking to collaborate on building Full Stack applications.</li> -->
     <li>📫 Reach me: <a href="mailto:antrikshgupta01@gmail.com">antrikshgupta01@gmail.com</a> &nbsp;&nbsp; <a href="https://www.linkedin.com/in/antriksh1305/" target="_blank"><b>Linked</b> <img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="Antriksh-Gupta-LinkedIn" height="20"></a></li>
 </ul>
@@ -33,6 +33,7 @@
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="45" height="45"/> </a> &nbsp
 <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-illustrator-cc-icon.svg" alt="illustrator" width="45" height="45"/> </a> &nbsp
 <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="45" height="45"/> </a> &nbsp
+<a href="https://redux.js.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" alt="redux" width="45" height="45"/> </a> &nbsp
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="45" height="45"/> </a> &nbsp
 <a href="" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/react-native-firebase-1.svg" alt="reactnativefirebase" width="45" height="45"/> </a> &nbsp
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg" alt="nodejs" width="45" height="45"/> </a> &nbsp
