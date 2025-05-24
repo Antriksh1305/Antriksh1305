@@ -14,8 +14,8 @@
 <h2 align="left"> 👨‍💻 About Me</h2>
 
 <ul>
-    <li>😇 I'm in my final year at the Indian Institute of Information Technology, Surat pursuing B.Tech in Electronics and Communication Engineering.</li>
-    <li>👨‍💻 I'm a <b>React Native Frontend</b> Developer currently exploring the field of Machine Learning.</li>
+    <li>😇 I am a B.Tech graduate from the Indian Institute of Information Technology, Surat, in Electronics and Communication Engineering.</li>
+    <li>👨‍💻 I'm a <b>Frontend Developer</b> at AlgoZenith.</li>
 <!--     <li>🔭 Looking to collaborate on building Full Stack applications.</li> -->
     <li>📫 Reach me: <a href="mailto:antrikshgupta01@gmail.com">antrikshgupta01@gmail.com</a> &nbsp;&nbsp; <a href="https://www.linkedin.com/in/antriksh1305/" target="_blank"><b>Linked</b> <img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="Antriksh-Gupta-LinkedIn" height="20"></a></li>
 </ul>
